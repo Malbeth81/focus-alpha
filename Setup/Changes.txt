@@ -1,0 +1,15 @@
+27/02/2006 : version 2.0.0
+
+	- New transparancy engine. Uses system hook instead of a timer.
+	- Added, auto transparency of all windows when the program starts.
+	- Added optional transparency for the task bar and the system tray.
+	- Added a start on windows startup option.
+	- Added the possibility to add a window to the exclusion list by simply clicking on it.
+	- Changed the way the exclusion list is saved.
+	- Changed the transparency level control.
+	- Isolated and optimised the window transparency codes.
+	- Alot of other minor changes and bug fixes.
+
+28/02/2005 : version 1.0.0
+
+	- First release.
